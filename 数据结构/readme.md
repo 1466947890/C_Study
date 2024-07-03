@@ -28,3 +28,7 @@
 3. 入队
 
 ![alt text](image-3.png)
+
+## 循环队列
+
+![alt text](image-4.png)
